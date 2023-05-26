@@ -27,10 +27,11 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-        - description: 70%
+        - name: Python
+          description: 70%
           icon: python
           icon_pack: fab
-          name: Python
+          
         - description: 70%
           icon: java
           icon_pack: fab
