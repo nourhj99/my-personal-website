@@ -59,7 +59,7 @@ sections:
           location: Michigan
           date_start: '2023-05-01'
           date_end: '2023-30-05'
-          description: 
+          description: |2-
           • Analyze comment changes in machine learning projects to help find the solution to automatize comments.
           • Use Java, Maven, and Git tools to automatically extract the reasons behind updating comments from commit to commit using different machine projects well rated from GitHub.
         - title: Data Scientist Intern
@@ -69,7 +69,7 @@ sections:
           location: Tunis
           date_start: '2022-05-05'
           date_end: '2022-30-07'
-          description: 
+          description: |2-
           • Developed a web application with PostgreSQL for my database, python for the backend along with Flask to connect the front and the back, and HTML, CSS, and bootstrap for my front end to predict email validation.
           • Collected data using Web Scrapping with Selenium and applied multiple machine algorithms mainly the decision tree to find out the one with the best accuracy. To be able to use manage the data and run the algorithms, I used NumPy, Seaborn and Scikit learn libraries.
         - title: Research Assistant
@@ -79,7 +79,7 @@ sections:
           location: Michigan
           date_start: '2021-01-09'
           date_end: '2021-30-12'
-          description: 
+          description: |2-
           • Implement an intelligent and dynamic scheduler for software containers in edge devices in collaboration with Ford Motor company using search-based techniques such as genetic algorithms.
           • Contributed to a research project by creating an Angular front-end to visualize real time containers metrics such as memory consumption, CPU, and network input/output usage using charts and graphs along with cAdvisor, Prometheus, and node exporter.
         - title: Software Engineer Intern
@@ -89,7 +89,7 @@ sections:
           location: Tunis
           date_start: '2021-06-06'
           date_end: '2021-15-08'
-          description: 
+          description: |2-
           • Contributed to the code migration of the enterprise resource planning (ERP) from an old programming language Delphi to modern ones; Angular, Spring Boot, and MySQL.
           • Managed car part inventory and employee data to ensure efficient resource utilization within the company.
           • Implemented new features to the system and worked closely with the testing team to test and debug the code.
@@ -100,7 +100,7 @@ sections:
           location: Tunis
           date_start: '2020-06-07'
           date_end: '2020-15-08'
-          description: 
+          description: |2-
           • Acquired in-depth knowledge of Agile methodologies to streamline project delivery as well as interacting with multiple project managers to learn about their experience.
           • Gained knowledge about all the steps of building a website such as structure, zoning, benchmarking, A/B testing, and referencing.
         - title: Web Developer
@@ -110,7 +110,7 @@ sections:
           location: Tunis
           date_start: '2018-06-09'
           date_end: '2019-15-08'
-          description: 
+          description: |2-
           • Created multiple websites using HTML, CSS, Bootstrap, and WordPress for clients.
           • Organized job fairs through organizations to provide job opportunities to students.
     design:
