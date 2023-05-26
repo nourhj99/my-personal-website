@@ -27,6 +27,30 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+        - description: 70%
+          icon: python
+          icon_pack: fab
+          name: Python
+        - description: 70%
+          icon: java
+          icon_pack: fab
+          name: Java
+        - description: 40%
+          icon: "c"
+          icon_pack: "custom"
+          name: "C++"
+        - description: 40%
+          icon: database
+          icon_pack: fas
+          name: SQL & NoSQL
+        - description: 70%
+          icon: "Git"
+          icon_pack: "custom"
+          name: "Git"
+        - description: 70%
+          icon: "datascience"
+          icon_pack: "custom"
+          name: "Data Science"
   - block: experience
     content:
       title: Experience
