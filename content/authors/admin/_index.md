@@ -22,12 +22,11 @@ organizations:
     url: https://umdearborn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently pursuing my Master's degree in Computer and Information science at the Univeristy of Michigan Dearborn. I am a problem-solver and reliable software engineering student seeking an opportunity to expand skills and gain valuable real-world experience in a collaborative environment. I am a friendly person, used to working with a team or by myself after both my experience as a President of a Rotaract club and a teacher of dance classes.
+bio: I am currently pursuing my Master's degree in Computer and Information science at the Univeristy of Michigan Dearborn. I am a problem-solver and reliable software engineering student seeking an opportunity to expand skills and gain valuable real-world experience in a collaborative environment. I am a friendly person used to working with a team or by myself after both my experience as a President of a Rotaract club and a teacher of dance classes.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Software
   - Web development
 
 # Education to show in About widget
@@ -77,5 +76,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Nour Haj Salem is a dedicated and ambitious Master's student in Computer and Information Science at the University of Michigan Dearborn. With a strong software engineering background and experience in internships and research positions, she is eager to expand her skills and contribute to collaborative projects. Nour's versatility, friendly demeanor, and commitment to personal and professional growth make her a valuable asset in the field of computer science, where she aims to make a positive impact through innovation.
 {style="text-align: justify;"}
