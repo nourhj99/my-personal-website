@@ -140,34 +140,91 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://coursera.org/share/caaa2a3bfa26cca3bfc360fe50b74245
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2022-05-08'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Machine Learning Foundations A Case Study Approach
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://coursera.org/share/fdffdf000bf4adae8cc032c52a8f7cb2
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2022-05-20'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Research Data Management and Sharing
+          url: ''
+        - certificate_url: https://coursera.org/share/e9c4cc8d33dcd25b7e139614c06adcb7
+          date_end: ''
+          date_start: '2022-06-0'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Ethics, Technology and Engineering
           url: ''
     design:
       columns: '2'
-  
-  
+  - block: Extracurricular activities
+    content:
+      title: Extracurricular activities
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: IT committee head 
+          company: Professional Co-ed Business Fraternity Alpha Kappa Psi
+          company_url: 'https://www.cbre.com/'
+          company_logo: org-gc
+          location: Michigan
+          date_start: '2023-01-05'
+          date_end: '2023-08-11'
+          description: |2-
+              Promoted the fraternity on social media. Attended and organized career development workshops.
+        - title: Member
+          company: UNICEF
+          company_url: 'https://umdearborn.edu/'
+          company_logo: org-x
+          location: Michigan
+          date_start: '2022-09-05'
+          date_end: '2023-04-30'
+          description: |2-
+              Ensured that children have the essentials for a safe and healthy childhood through volunteering and fundraising.
+        - title: President
+          company: Rotaract Carthage Amilcar
+          company_url: ''
+          company_logo: org-x
+          location: Tunis
+          date_start: '2020-09-05'
+          date_end: '2021-06-30'
+          description: |2-
+              Organized, prepared, and supervised 15 actions such as building homes for homeless families.Chaired the club and communicated with the team members while using the club’s time efficiently and productively.
+        - title: Board Member
+          company: Google Affiliate Developer Student Club of South Mediterranean University
+          company_url: ''
+          company_logo: org-x
+          location: Tunis
+          date_start: '2019-09-01'
+          date_end: '2020-05-30'
+          description: |2-
+              Organized tech talks, events, and workshops while collaborating with others to accomplish these goals.
+        
+    design:
+      columns: '2'
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:
