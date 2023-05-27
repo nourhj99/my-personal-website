@@ -56,7 +56,7 @@ sections:
         - title: Research Assistant
           company: University of Michigan Dearborn
           company_url: 'https://umdearborn.edu/'
-          company_logo: org-x
+          company_logo: michigan
           location: Michigan
           date_start: '2023-01-05'
           date_end: '2023-05-30'
@@ -219,14 +219,15 @@ sections:
         
     design:
       columns: '2'
-  - block: markdown
+  """- block: markdown
     content:
       title: Personal accomplishments
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
-    design:
+   """ design:
       columns: '1'
+     """ 
   - block: contact
     id: contact
     content:
