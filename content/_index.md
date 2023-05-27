@@ -28,6 +28,7 @@ sections:
           icon_pack: fas
           name: SQL & NoSQL
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -167,6 +168,7 @@ sections:
     design:
       columns: '2'
   - block: experience
+    id : Extracurricularactivities
     content:
       title: Extracurricular activities
       # Date format for experience
@@ -219,7 +221,7 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: Gallery
+      title: Personal accomplishments
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
