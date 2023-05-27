@@ -166,7 +166,7 @@ sections:
           url: ''
     design:
       columns: '2'
-  - block: Extracurricular activities
+  - block: experience
     content:
       title: Extracurricular activities
       # Date format for experience
