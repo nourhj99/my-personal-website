@@ -158,7 +158,7 @@ sections:
           url: ''
         - certificate_url: https://coursera.org/share/e9c4cc8d33dcd25b7e139614c06adcb7
           date_end: ''
-          date_start: '2022-06-0'
+          date_start: '2022-06-06'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
