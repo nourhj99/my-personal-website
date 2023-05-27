@@ -219,15 +219,15 @@ sections:
         
     design:
       columns: '2'
-  """- block: markdown
+  - block: markdown
     content:
       title: Personal accomplishments
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
-   """ design:
+    design:
       columns: '1'
-     """ 
+     
   - block: contact
     id: contact
     content:
