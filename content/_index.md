@@ -43,7 +43,7 @@ sections:
         - title: Software engineer intern
           company: CBRE
           company_url: 'https://www.cbre.com/'
-          company_logo: org-gc
+          company_logo: cbre
           location: Remote
           date_start: '2023-06-05'
           date_end: '2023-08-11'
@@ -182,7 +182,7 @@ sections:
       items:
         - title: IT committee head 
           company: Professional Co-ed Business Fraternity Alpha Kappa Psi
-          company_url: 'https://www.cbre.com/'
+          company_url: ''
           company_logo: akpsi
           location: Michigan
           date_start: '2023-01-05'
@@ -191,7 +191,7 @@ sections:
               Promoted the fraternity on social media. Attended and organized career development workshops.
         - title: Member
           company: UNICEF
-          company_url: 'https://umdearborn.edu/'
+          company_url: ''
           company_logo: unicef
           location: Michigan
           date_start: '2022-09-05'
