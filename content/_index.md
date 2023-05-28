@@ -219,7 +219,7 @@ sections:
         
     design:
       columns: '2'
-    - block: features
+  - block: features
     content:
       title: Hobbies
       items:
