@@ -68,7 +68,7 @@ sections:
         - title: Data Scientist Intern
           company: Tunisian Cloud
           company_url: 'https://www.tunisiancloud.com/'
-          company_logo: org-x
+          company_logo: tunisiancloud
           location: Tunis
           date_start: '2022-05-05'
           date_end: '2022-07-30'
@@ -80,7 +80,7 @@ sections:
         - title: Research Assistant
           company: University of Michigan Dearborn
           company_url: 'https://umdearborn.edu/'
-          company_logo: org-x
+          company_logo: michigan
           location: Michigan
           date_start: '2021-09-01'
           date_end: '2021-12-30'
@@ -92,7 +92,7 @@ sections:
         - title: Software Engineer Intern
           company: L'Equipement Moderne
           company_url: 'https://www.equipementmoderne.com.tn/en/'
-          company_logo: org-x
+          company_logo: l_equipement
           location: Tunis
           date_start: '2021-06-06'
           date_end: '2021-08-15'
@@ -105,7 +105,7 @@ sections:
         - title: Software Project Manager Intern
           company: MediaNet
           company_url: 'https://www.medianet.tn/fr/'
-          company_logo: org-x
+          company_logo: medianet
           location: Tunis
           date_start: '2020-07-06'
           date_end: '2020-08-15'
@@ -117,7 +117,7 @@ sections:
         - title: Web Developer
           company: Youth Mediterranean Consulting at SMU
           company_url: ''
-          company_logo: org-x
+          company_logo: youth
           location: Tunis
           date_start: '2018-09-06'
           date_end: '2019-08-15'
@@ -183,7 +183,7 @@ sections:
         - title: IT committee head 
           company: Professional Co-ed Business Fraternity Alpha Kappa Psi
           company_url: 'https://www.cbre.com/'
-          company_logo: org-gc
+          company_logo: akpsi
           location: Michigan
           date_start: '2023-01-05'
           date_end: '2023-08-11'
@@ -192,7 +192,7 @@ sections:
         - title: Member
           company: UNICEF
           company_url: 'https://umdearborn.edu/'
-          company_logo: org-x
+          company_logo: unicef
           location: Michigan
           date_start: '2022-09-05'
           date_end: '2023-04-30'
@@ -201,7 +201,7 @@ sections:
         - title: President
           company: Rotaract Carthage Amilcar
           company_url: ''
-          company_logo: org-x
+          company_logo: rotaract
           location: Tunis
           date_start: '2020-09-05'
           date_end: '2021-06-30'
@@ -210,7 +210,7 @@ sections:
         - title: Board Member
           company: Google Affiliate Developer Student Club of South Mediterranean University
           company_url: ''
-          company_logo: org-x
+          company_logo: google
           location: Tunis
           date_start: '2019-09-01'
           date_end: '2020-05-30'
