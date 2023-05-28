@@ -219,6 +219,22 @@ sections:
         
     design:
       columns: '2'
+    - block: features
+    content:
+      title: Hobbies
+      items:
+        - name: Dance
+          description:  Danced for 10 years multiple type of dance, created choreographies and taught kids and teenagers.
+          icon: dance
+          icon_pack: fab
+        - description: Traveled to more than 10 countries including ; France, Italy, Canada, and Thailand...
+          icon: plane
+          icon_pack: fab
+          name: Travel
+        - description: Took classes in photography and been taking pictures of all the places I visited.
+          icon: camera-retro
+          icon_pack: fas
+          name: Photography
   - block: markdown
     content:
       title: Personal accomplishments
