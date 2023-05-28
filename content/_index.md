@@ -225,10 +225,10 @@ sections:
       items:
         - name: Dance
           description:  Danced for 10 years multiple type of dance, created choreographies and taught kids and teenagers.
-          icon: dance
+          icon: person-dress
           icon_pack: fab
         - description: Traveled to more than 10 countries including ; France, Italy, Canada, and Thailand...
-          icon: plane
+          icon: plane-departure
           icon_pack: fab
           name: Travel
         - description: Took classes in photography and been taking pictures of all the places I visited.
