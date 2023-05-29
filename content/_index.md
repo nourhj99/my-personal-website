@@ -225,10 +225,10 @@ sections:
       items:
         - name: Dance
           description:  Danced for 10 years multiple type of dance, created choreographies and taught kids and teenagers.
-          icon: person-dress
-          icon_pack: fab
+          icon: :dress:
+          icon_pack: emoji
         - description: Traveled to more than 10 countries including ; France, Italy, Canada, and Thailand...
-          icon: earth_africa
+          icon: :earth_africa:
           icon_pack: emoji
           name: Travel
         - description: Took classes in photography and been taking pictures of all the places I visited.
