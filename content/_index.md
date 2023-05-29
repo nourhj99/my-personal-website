@@ -228,8 +228,8 @@ sections:
           icon: person-dress
           icon_pack: fab
         - description: Traveled to more than 10 countries including ; France, Italy, Canada, and Thailand...
-          icon: plane-departure
-          icon_pack: fab
+          icon: earth_africa
+          icon_pack: emoji
           name: Travel
         - description: Took classes in photography and been taking pictures of all the places I visited.
           icon: camera-retro
@@ -253,7 +253,6 @@ sections:
         Please don't hesitate to reach out to me if my profile captures your interest. I am always open to connecting, exchanging ideas, or exploring potential collaborations. I look forward to hearing from you and discussing how we can work together.
       # Contact (add or remove contact options as necessary)
       email: nourhj@umich.edu
-      appointment_url: 'https://calendly.com'
       address:
         street: 780 Town Center dr
         city: Dearborn
