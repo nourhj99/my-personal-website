@@ -232,8 +232,8 @@ sections:
           icon_pack: custom
           name: Travel
         - description: Took classes in photography and been taking pictures of all the places I visited.
-          icon: camera-retro
-          icon_pack: fas
+          icon: camera-solid
+          icon_pack: custom
           name: Photography
   - block: markdown
     content:
