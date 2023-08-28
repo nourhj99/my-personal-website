@@ -51,9 +51,9 @@ sections:
           description: |2-
               Responsibilities include:
 
-              * Testing
-              * Configuration
-              * Maintenance
+              * Contributed to 44% of System Integration Testing to validate and optimize the performance of integrated Coupa systems.
+              * Collaborated with cross-functional teams and project stakeholders to successfully design, develop, and maintain Coupa software solutions for efficient business processes.
+              * Implemented the Power Automate to streamline and optimize time consuming manual task efficiency, reducing its execution time from over 6 hours to just 45 mins.
         - title: Research Assistant
           company: University of Michigan Dearborn
           company_url: 'https://umdearborn.edu/'
